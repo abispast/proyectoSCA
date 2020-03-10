@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "12618609618",
+    "firebase_url": "https://appsca.firebaseio.com",
+    "project_id": "appsca",
+    "storage_bucket": "appsca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12618609618:android:891b1d0447cc5999dc4e0b",
+        "android_client_info": {
+          "package_name": "com.example.sca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12618609618-liuekumet9i7ui1v38p7sm6u51lut1fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB272uHxap_u1_S3RWwmem7mk2P-y1Ukko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12618609618-liuekumet9i7ui1v38p7sm6u51lut1fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

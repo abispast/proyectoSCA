@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SCA</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="servererror">Ocurrio un problema en el servidor</string>
+    <string name="noconnectionerror">Sin conexion a internet</string>
+    <string name="menu_ajustes">Ajustes</string>
+    <string name="menu_cerrarsesion">Salir</string>
+    <string name="msg_token_fmt">token</string>
+    <string name="default_notification_channel_id">fcm_channel_general</string>
+    <string name="login_email">Correo</string>
+    <string name="login_contrasena">Contraseña</string>
+    <string name="button_iniciar_sesion">Iniciar sesion</string>
+    <string name="error_field_required">Campo requerido</string>
+    <string name="ruta_servidor">Ruta del servidor</string>
+    <string name="guardar">Guardar</string>
+    <string name="ruta_del_servidor">Ruta del Servidor</string>
+</resources>
